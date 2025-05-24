@@ -6,7 +6,6 @@ export default function Footer() {
           <img src="/supreme-logo.svg" alt="Supreme Group Logo" className="h-10 mb-4" />
           <p className="text-sm">©2025. All Rights Reserved.</p>
         </div>
-
         <div>
           <h3 className="text-lg font-semibold mb-4">Applications</h3>
           <ul className="space-y-2">
